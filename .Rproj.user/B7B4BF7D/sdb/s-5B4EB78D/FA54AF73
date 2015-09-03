@@ -1,0 +1,17 @@
+{
+    "contents" : "- [Week 1](week1.md)\n- [Week 2](week2.md)\n- [Week 3](week3.md)\n- [Week 4](week4.md)\n- [Week 5](week5.md)\n- [Week 6](week6.md)\n- [Week 7](week7.md)\n- [Week 8](week8.md)\n- [Week 9](week9.md)\n- [Week 10](week10.md)\n- [R Resources](resources.md)\n- [References](references.md)\n\n",
+    "created" : 1441294057244.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2177573087",
+    "id" : "FA54AF73",
+    "lastKnownWriteTime" : 1441294380,
+    "path" : "~/Desktop/PUBLG100/SUMMARY.Rmd",
+    "project_path" : "SUMMARY.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
