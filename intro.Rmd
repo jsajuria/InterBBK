@@ -1,4 +1,5 @@
-# Introduction to Quantitative Methods  
+# Intermediate Quantitative Social Research
+# Lab sessions
 
 ```{r setup, include=FALSE, cache=FALSE, results='asis'}
 library(rvest)
