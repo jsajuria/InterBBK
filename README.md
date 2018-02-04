@@ -1,4 +1,4 @@
-PUBLG100
+BBK
 ========
 
-Online course content for Introduction to Quantitative Methods
+Online course content for Intermediate Quantitative Methods
